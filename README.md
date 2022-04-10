@@ -1,5 +1,5 @@
 # autocorrect-suggestions
-Python program that uses a rudimentary approach to provode autocorrect suggestions to incorrectly spelled words
+Python program that uses a rudimentary approach to provide autocorrect suggestions to incorrectly spelled words
 
 <h3>How to run the program</h3>
 
